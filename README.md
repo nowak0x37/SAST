@@ -1,5 +1,3 @@
-# php-functions.sh & friends — Restricted-API Auditors
-
 Quick-fire audit scripts that tell you **which dangerous functions are still
 available** after a hardening policy has blocked a list of functions, classes,
 cmdlets, or statements.
